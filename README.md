@@ -1,4 +1,4 @@
-# TripAdvisorProject
+# TripAdvisorProject - Sentiment Classifier
 
 Date the Data was Scraped
 
